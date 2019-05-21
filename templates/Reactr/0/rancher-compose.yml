@@ -1,0 +1,9 @@
+version: '2'
+.catalog:
+  name: "my-react-starter"
+  version: "v0.1.0"
+  description: |
+    show off
+  minimum_rancher_version: v1.1.0
+  maximum_rancher_version: v1.99.99
+  
